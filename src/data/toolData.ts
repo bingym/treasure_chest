@@ -32,6 +32,7 @@ export const toolData: FuncGroup[] = [
       { Name: 'Random Password Generator', Path: '/tool/random-chars', Description: 'Generate random passwords and strings' },
       { Name: 'Text Diff', Path: '/tool/text-diff', Description: 'Compare two texts and highlight differences' },
       { Name: 'Core Values Encoder', Path: '/tool/core-values-encoder', Description: 'Encode/decode text with core socialist values' },
+      { Name: 'Noise Meter', Path: '/tool/noise-meter', Description: 'Detect ambient noise level in decibels using microphone' },
     ],
   },
 ];

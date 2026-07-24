@@ -34,6 +34,7 @@ export const toolData: FuncGroup[] = [
       { Name: 'Core Values Encoder', Path: '/tool/core-values-encoder', Description: 'Encode/decode text with core socialist values' },
       { Name: 'Noise Meter', Path: '/tool/noise-meter', Description: 'Detect ambient noise level in decibels using microphone' },
       { Name: 'Fuel Cost Calculator', Path: '/tool/fuel-cost-calc', Description: 'Calculate vehicle fuel/electricity cost per kilometer' },
+      { Name: 'License Plate Simulator', Path: '/tool/license-plate', Description: 'Generate simulated license plate numbers for testing and demo' },
     ],
   },
 ];
